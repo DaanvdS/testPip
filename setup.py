@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='testPip',
-    version='0.0.1',
+    version='0.0.3',
     author='Daan',
     author_email='d.s.vanderspek@students.uu.nl',
     description='Schema package for spider',

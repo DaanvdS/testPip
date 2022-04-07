@@ -1,0 +1,12 @@
+{
+	"title": "add-package",
+	"description": "[Spider to DLT] Adds a package to the spider TODO list. This can be a yet unknown package, or (?) a package whose data has been outdated.",
+	"type": "object",
+	"properties": {
+		"url": {
+			"type": "string"
+		}
+	},
+	"additionalProperties": false,
+	"required": ["url"]
+}
